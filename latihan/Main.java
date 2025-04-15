@@ -31,6 +31,9 @@ public class Main {
                 case 3:
                     System.out.println("Keluar dari program.");
                     break;
+                case 4: 
+                    System.out.println("Testing");
+                    break;
                 default:
                     System.out.println("Pilihan tidak valid!");
                     break;
