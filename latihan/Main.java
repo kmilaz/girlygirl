@@ -18,6 +18,7 @@ public class Main {
             System.out.println("\n===== Menu =====");
             System.out.println("1. Tampil berdasarkan jenis");
             System.out.println("2. Tampil berdasarkan stok");
+            System.out.println("3. Keluar");
             System.out.print("Pilih: ");
             pilih = sc.nextInt();
 
